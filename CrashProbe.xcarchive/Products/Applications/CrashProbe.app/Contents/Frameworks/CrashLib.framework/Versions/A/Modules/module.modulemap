@@ -1,0 +1,11 @@
+framework module CrashLib {
+  umbrella header "CrashLib.h"
+
+  export *
+  module * { export * }
+}
+
+module CrashLib.Swift {
+    header "CrashLib-Swift.h"
+    requires objc
+}

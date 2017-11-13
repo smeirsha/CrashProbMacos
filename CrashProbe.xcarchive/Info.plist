@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/CrashProbe.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>de.bowstreet.apps.Frankenstein</string>
+		<key>CFBundleShortVersionString</key>
+		<string>4.3.1</string>
+		<key>CFBundleVersion</key>
+		<string>52</string>
+		<key>SigningIdentity</key>
+		<string>Developer ID Application: Bowstreet Solutions GmbH (29UTQE9JS9)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2017-11-13T02:20:37Z</date>
+	<key>Name</key>
+	<string>CrashProbe</string>
+	<key>SchemeName</key>
+	<string>CrashProbe</string>
+</dict>
+</plist>
